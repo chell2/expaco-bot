@@ -1,0 +1,1 @@
+# Discord用 えきすぱ子bot
